@@ -35,16 +35,12 @@ Here are some ideas to get you started:
 ## GitHub Stats
 
 <!-- Replace YOUR_USERNAME with your GitHub username -->
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NireekshaRao26&show_icons=true&bg_color=0d1117&title_color=2EA043&text_color=C9D1D9&icon_color=2EA043&border_color=238636" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NireekshaRao26&layout=compact&bg_color=0d1117&title_color=2EA043&text_color=C9D1D9&border_color=238636" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NireekshaRao26&show_icons=true&bg_color=0d1117&title_color=2EA043&text_color=C9D1D9&icon_color=2EA043&border_color=238636" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=NireekshaRao26&background=0d1117&ring=2EA043&fire=2EA043&currStreakLabel=2EA043&sideNums=C9D1D9&currStreakNum=2EA043&dates=C9D1D9&border=238636" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NireekshaRao26&layout=compact&bg_color=0d1117&title_color=2EA043&text_color=C9D1D9&border_color=238636" />
 </p>
 
 ##  Contribution Graph
