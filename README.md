@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 <!-- Replace YOUR_USERNAME with your GitHub username -->
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NireekshaRao26&show_icons=true&bg_color=0d1117&title_color=2EA043&text_color=C9D1D9&icon_color=2EA043&border_color=238636" />
+  <img src="https://github-stats-extended.vercel.app/api?username=NireekshaRao26&show_icons=true&bg_color=45,0d1117,163020&title_color=2EA043&text_color=C9D1D9&icon_color=2EA043&border_color=238636&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NireekshaRao26&layout=compact&bg_color=0d1117&title_color=2EA043&text_color=C9D1D9&border_color=238636" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=NireekshaRao26&layout=compact&bg_color=45,0d1117,163020&title_color=2EA043&text_color=C9D1D9&border_color=238636&cache_seconds=1800" />
 </p>
 
 ##  Contribution Graph
