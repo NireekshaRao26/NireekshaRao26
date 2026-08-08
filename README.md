@@ -36,12 +36,14 @@ Here are some ideas to get you started:
 
 <!-- Replace YOUR_USERNAME with your GitHub username -->
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=NireekshaRao26&show_icons=true&bg_color=45,0d1117,163020&title_color=2EA043&text_color=C9D1D9&icon_color=2EA043&border_color=238636&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com/?user=NireekshaRao26&background=45,030d06,092612&border=153b21&stroke=153b21&ring=2ea043&fire=2ea043&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2ea043&sideLabels=ffffff&dates=8b949e" />
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=NireekshaRao26&layout=compact&bg_color=45,0d1117,163020&title_color=2EA043&text_color=C9D1D9&border_color=238636&cache_seconds=1800" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=NireekshaRao26&layout=compact&bg_color=45,030d06,092612&title_color=2ea043&text_color=ffffff&border_color=153b21&cache_seconds=1800" />
 </p>
+
+
 
 ##  Contribution Graph
 
