@@ -45,11 +45,6 @@ Here are some ideas to get you started:
 
 
 
-##  Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NireekshaRao26&bg_color=0d1117&title_color=2EA043&color=C9D1D9&line=2EA043&point=C9D1D9&area=true&area_color=163020&hide_border=true)](https://github.com/NireekshaRao26)
-
-
 ##  Connect with Me
 
 <p align="left">
