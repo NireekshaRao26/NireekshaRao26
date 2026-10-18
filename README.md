@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <!-- Replace YOUR_USERNAME with your GitHub username -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=NireekshaRao26&background=45,030d06,092612&border=153b21&stroke=153b21&ring=2ea043&fire=2ea043&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2ea043&sideLabels=ffffff&dates=8b949e" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=NireekshaRao26&background=45,030d06,092612&border=153b21&stroke=153b21&ring=2ea043&fire=2ea043&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2ea043&sideLabels=ffffff&dates=8b949e" />
 </p>
 
 <p align="center">
@@ -45,9 +45,6 @@ Here are some ideas to get you started:
 
 
 
-##  Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NireekshaRao26&bg_color=0d1117&title_color=2EA043&color=C9D1D9&line=2EA043&point=C9D1D9&area=true&area_color=163020&hide_border=true)](https://github.com/NireekshaRao26)
 
 
 ##  Connect with Me
