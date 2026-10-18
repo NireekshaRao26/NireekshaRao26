@@ -45,13 +45,6 @@ Here are some ideas to get you started:
 
 
 
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 8f75796fa64f2e2135f7c4cc21e756682ff3be94
-##  Connect with Me
-
 <p align="left">
   <a href="https://linkedin.com/in/nireeksha-b-rao" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
